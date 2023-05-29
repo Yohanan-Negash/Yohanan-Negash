@@ -4,7 +4,7 @@
 
 ### Who am I? 
 
-My name is Yohanan Negash 🇪🇹 and I am a junior in Geo[rge Mason Univeristy ma](https://www.gmu.edu/)joring in computer science. I enjoy working on myself and learn about the world as much as I can. The best word to describe me is ambitious, but I have come to understsand the true meaning of how actions speak louder than words. Therefore, I will refrain from talking about myself and let my actions do the talking.  
+My name is Yohanan Negash 🇪🇹 and I am a junior in [George Mason Univeristy ma](https://www.gmu.edu/)joring in computer science. I enjoy working on myself and learn about the world as much as I can. The best word to describe me is ambitious, but I have come to understsand the true meaning of how actions speak louder than words. Therefore, I will refrain from talking about myself and let my actions do the talking.  
 
 ### What I am upto right now? 
 
