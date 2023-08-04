@@ -8,7 +8,7 @@ My name is Yohanan Negash 🇪🇹 and I am an associate's degree Computer Scien
 
 ## 👷🏾 What I am up to right now? 
 
-I am trying to create more than I consume. I am currently interested in business, to be specific eccomerce. Most of my time is spent trying to learn more about e-commerce and business and figuring out how to incorporate my Computer Science knowledge into it. 
+I am trying to create more than I consume. I am currently interested in business, SAAS specifically. Most of my time is spent trying to learn and create a small SAAS that will help a specific minority. 
 
 ## 🔨 What am I using Github For?
 
