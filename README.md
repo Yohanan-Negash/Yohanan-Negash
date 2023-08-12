@@ -6,10 +6,6 @@
 
 My name is Yohanan Negash 🇪🇹 and I am an associate's degree Computer Science graduate who studied in [NOVA](https://www.nvcc.edu/). I enjoy working on myself and learning about the world as much as I can. The best word to describe me is ambitious, but I have come to understand the true meaning of how actions speak louder than words. Therefore, I will refrain from talking about myself and let my actions do the talking.  
 
-## 👷🏾 What I am up to right now? 
-
-I am trying to create more than I consume. I am currently interested in business, SAAS specifically. Most of my time is spent trying to learn and create a small SAAS that will help a specific minority. 
-
 ## 🔨 What am I using Github For?
 
 I find Github valuable as a platform for tracking my work and organizing my projects in various ways. It's important to note that GitHub can serve other purposes beyond just code management and version control. For me, it has become a versatile tool for managing and diversifying my workflow. 
