@@ -1,3 +1,3 @@
 # 👋
 
-“In the end, when it's over, all that matters is what you've done.” - Alexander the Great 🌱
+![Loading](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
